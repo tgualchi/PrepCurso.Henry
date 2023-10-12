@@ -1,2 +1,1 @@
-# PrepCurso.Henry
-repositorio de prueba de pre curso henry modulo 2
+Prueba de como clonar un proyecto de git
